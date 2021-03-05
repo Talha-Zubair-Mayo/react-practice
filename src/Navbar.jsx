@@ -11,8 +11,8 @@ const Navbar = () => {
               <div className="container-fluid">
                 <NavLink className="navbar-brand" to="/">
                   TaLhA ZuBaiR MaYo
-                </NavLink>
-                <button
+                 </NavLink>
+                 <button
                   className="navbar-toggler"
                   type="button"
                   data-bs-toggle="collapse"
