@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-practice/static/css/main.74cc2de7.chunk.css",
+    "main.js": "/react-practice/static/js/main.c66156a4.chunk.js",
+    "main.js.map": "/react-practice/static/js/main.c66156a4.chunk.js.map",
+    "runtime-main.js": "/react-practice/static/js/runtime-main.a4fb1537.js",
+    "runtime-main.js.map": "/react-practice/static/js/runtime-main.a4fb1537.js.map",
+    "static/css/2.338c1204.chunk.css": "/react-practice/static/css/2.338c1204.chunk.css",
+    "static/js/2.7a2f9cff.chunk.js": "/react-practice/static/js/2.7a2f9cff.chunk.js",
+    "static/js/2.7a2f9cff.chunk.js.map": "/react-practice/static/js/2.7a2f9cff.chunk.js.map",
+    "index.html": "/react-practice/index.html",
+    "static/css/2.338c1204.chunk.css.map": "/react-practice/static/css/2.338c1204.chunk.css.map",
+    "static/css/main.74cc2de7.chunk.css.map": "/react-practice/static/css/main.74cc2de7.chunk.css.map",
+    "static/js/2.7a2f9cff.chunk.js.LICENSE.txt": "/react-practice/static/js/2.7a2f9cff.chunk.js.LICENSE.txt",
+    "static/media/android.ee1d9508.jpeg": "/react-practice/static/media/android.ee1d9508.jpeg",
+    "static/media/app.8714f365.jpeg": "/react-practice/static/media/app.8714f365.jpeg",
+    "static/media/digital.dad8270c.jpeg": "/react-practice/static/media/digital.dad8270c.jpeg",
+    "static/media/hero-img.53f1b546.png": "/react-practice/static/media/hero-img.53f1b546.png",
+    "static/media/marketing.f629aa39.jpg": "/react-practice/static/media/marketing.f629aa39.jpg",
+    "static/media/s1.8e51e67d.jpg": "/react-practice/static/media/s1.8e51e67d.jpg",
+    "static/media/software.1cb4dc77.jpeg": "/react-practice/static/media/software.1cb4dc77.jpeg",
+    "static/media/wp1810641-mr-robot-wallpapers.d319d6ec.svg": "/react-practice/static/media/wp1810641-mr-robot-wallpapers.d319d6ec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4fb1537.js",
+    "static/css/2.338c1204.chunk.css",
+    "static/js/2.7a2f9cff.chunk.js",
+    "static/css/main.74cc2de7.chunk.css",
+    "static/js/main.c66156a4.chunk.js"
+  ]
+}
